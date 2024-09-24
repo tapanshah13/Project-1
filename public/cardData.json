@@ -1,0 +1,68 @@
+[
+    {
+      "title": "Birria-Landia",
+      "subtitle": "Mexican",
+      "image": "../src/assets/card1.png",
+      "url": "https://thebirrialandia.com/menu/"
+    },
+    {
+      "title": "The Halal Guys",
+      "subtitle": "Middle Eastern",
+      "image": "../src/assets/card2.png",
+      "url": "https://thehalalguys.com/menu/"
+    },
+    {
+      "title": "NY Dosas",
+      "subtitle": "Vegetarian",
+      "image": "../src/assets/card3.png",
+      "url": "https://nydosas.com/menu/"
+    },
+    {
+      "title": "Jerk Pan",
+      "subtitle": "Jamaican",
+      "image": "../src/assets/card4.png",
+      "url": "https://www.allmenus.com/ny/new-york/360888-jerk-pan/menu/"
+    },
+    {
+      "title": "Tong",
+      "subtitle": "Bangladeshi",
+      "image": "../src/assets/card5.png",
+      "url": "https://www.facebook.com/Bangladeshistreetfoods/"
+    },
+    {
+      "title": "King Souvlaki of Astoria",
+      "subtitle": "Greek",
+      "image": "../src/assets/card6.png",
+      "url": "https://kingsouvlakinyc.com/"
+    },
+    {
+      "title": "Ling's Sweet Mini Cakes",
+      "subtitle": "Chinese",
+      "image": "../src/assets/card7.png",
+      "url": "https://canalstreet.market/"
+    },
+    {
+      "title": "Uncle Gussy's",
+      "subtitle": "Greek",
+      "image": "../src/assets/card8.png",
+      "url": "https://unclegussys.com/menus/"
+    },
+    {
+      "title": "Patacon Pisao",
+      "subtitle": "Venezuelan",
+      "image": "../src/assets/card9.png",
+      "url": "https://www.pataconpisaonyc.com/menus/"
+    },
+    {
+      "title": "Mom's Mono",
+      "subtitle": "Tibetan",
+      "image": "../src/assets/card10.png",
+      "url": "https://www.restaurantji.com/ny/jackson-heights/moms-momo-/menu/"
+    },
+    {
+      "title": "Makina Cafe",
+      "subtitle": "Ethiopian",
+      "image": "../src/assets/card11.png",
+      "url": "https://makinacafenyc.com/"
+    }  
+]
